@@ -1,0 +1,3 @@
+class currentAcc:
+    pass
+
